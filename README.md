@@ -1,5 +1,5 @@
 # ym2149
-Playing with the venerable old YM2149 synth chip.
+Playing with the venerable YM2149 synth chip.
 
 ![schematic](schematics/ym2149midi.png)
 
