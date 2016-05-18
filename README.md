@@ -4,7 +4,7 @@ Playing with the YM2149 synth chip.
 ![schematic](schematics/ym2149midi.png)
 
 # Acks
-Mr. Silicon
+Mr. Megahertz
 https://electronicfields.files.wordpress.com/2012/05/ym2149midi.png
 
 
