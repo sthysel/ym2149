@@ -1,4 +1,4 @@
-# ym2149
+# The YM2149 Synth
 Playing with the venerable YM2149 synth chip.
 
 ![schematic](schematics/ym2149midi.png)
